@@ -1,4 +1,4 @@
-RAG - Question Answering Application
+##RAG - Question Answering Application
 
 This is a RAG (Retrieval-Augmented Generation) application designed for question answering. The app leverages a combination of retrieval-based methods and generative models to answer questions based on a given dataset.
 
