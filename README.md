@@ -1,7 +1,5 @@
-# RAG-Graduation-project
+RAG - Question Answering Application
 
-this is my graduation project, which is about building a RAG application for question answering.
+This is a RAG (Retrieval-Augmented Generation) application designed for question answering. The app leverages a combination of retrieval-based methods and generative models to answer questions based on a given dataset.
 
-## Requirments:
-
-- python 3.8 or later
+Currently, the project is a work in progress, and some features are still being developed and fine-tuned. Stay tuned for future updates as we continue to enhance the functionality and performance of the application!
